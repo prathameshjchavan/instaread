@@ -1,0 +1,25 @@
+{
+	"img": "/book.png",
+	"title": "Astrophysics for People in a Hurry’s Summary",
+	"genre": "Key Insights & Analysis",
+	"author": "Kelly Brogan, MD with Kristin Loberg",
+	"bookFeatures": [
+		{
+			"img": "/folded-newspaper.png",
+			"title": "18 min read"
+		},
+		{
+			"img": "/audio-headphones.png",
+			"title": "14 min listen"
+		},
+		{
+			"img": "/save.png",
+			"title": "Add to Library"
+		},
+		{
+			"img": "/cart.png",
+			"title": "Buy Book"
+		}
+	],
+	"bookCategories": ["Business & Finance", "Business & Finance"]
+}

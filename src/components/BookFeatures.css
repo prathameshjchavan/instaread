@@ -1,0 +1,32 @@
+.bookFeatures {
+	display: flex;
+	gap: 40px;
+	margin: 40px 0px;
+	padding: 13px 10px;
+	border-top: 1px solid rgba(211, 211, 211, 0.6);
+	border-bottom: 1px solid rgba(211, 211, 211, 0.6);
+	width: min-content;
+	pointer-events: none;
+}
+
+.bookFeatures__feature {
+	display: flex;
+	align-items: center;
+}
+
+.bookFeatures__feature > img {
+	width: 20px;
+	height: 20px;
+	object-fit: contain;
+	margin-right: 10px;
+}
+
+.bookFeatures__feature > p {
+	font-size: 16px;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.19;
+	letter-spacing: normal;
+	white-space: nowrap;
+}

@@ -1,0 +1,46 @@
+.bookInfo {
+	max-width: 1352px;
+	margin: 40px auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.bookInfo__image {
+	object-fit: contain;
+	margin-right: 60px;
+}
+
+.bookInfo__details {
+	flex: 1;
+}
+
+.bookInfo__details > h2 {
+	font-size: 36px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.19;
+	letter-spacing: normal;
+}
+
+.bookInfo__details > h3 {
+	font-size: 23px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.22;
+	letter-spacing: normal;
+	margin-top: 10px;
+}
+
+.bookInfo__details > p {
+	font-size: 18px;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.78;
+	letter-spacing: normal;
+	margin-top: 10px;
+	color: #8f95a3;
+}

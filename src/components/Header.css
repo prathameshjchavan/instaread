@@ -1,0 +1,35 @@
+.header__container {
+	border-bottom: 1px solid #c9d0d7;
+}
+
+.header {
+	height: 68px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	max-width: 1352px;
+	margin: 0px auto;
+	padding: 5px 20px;
+}
+
+.header__logo {
+	height: 50px;
+}
+
+.header__navBar {
+	display: flex;
+}
+
+.header__navBarItem {
+	padding-left: 30px;
+	font-weight: 500;
+	font-size: 19px;
+	color: #8f95a3;
+	cursor: pointer;
+	white-space: nowrap;
+	display: flex;
+}
+
+.header__navBarItem-active {
+	color: #009aeb !important;
+}
